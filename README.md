@@ -10,9 +10,10 @@ Welcome to my corner of GitHub! Here’s a little about me:
 
 ### 🎉 Fun Zone  
 When I’m not coding, you can find me:  
-- 🏋️‍♂️ Weightlifting and tackling new fitness challenges.  
-- 📚 Reading fantasy novels and brainstorming DnD campaign ideas.  
-- 🍳 Experimenting in the kitchen and trying out new recipes.  
+- 🏋️‍♂️ Weightlifting 
+- 📚 Reading
+- 🎲 Playing DnD 
+- 🍳 Cooking
 
 ---
 
