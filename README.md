@@ -9,8 +9,8 @@ Welcome to my corner of GitHub! Here’s a little about me:
 ---
 
 ### 🎉 Fun Zone  
-When I’m not coding, you can find me:  
-- 🏋️‍♂️ Weightlifting 
+When I’m not coding, you can find me: 
+- 🛹 Skateboarding
 - 📚 Reading
 - 🎲 Playing DnD 
 - 🍳 Cooking
