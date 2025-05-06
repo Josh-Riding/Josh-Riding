@@ -1,19 +1,22 @@
-## 👋 Hi! I'm @Josh-Riding  
+## 👋 Howdy! I'm @Josh-Riding
 
-Welcome to my corner of GitHub! Here’s a little about me:  
-- 💻 **Experience**:  
-   - 🛠️ **Python Automations, AWS Serverless, Express APIs** 
-   - 📊 Skilled in **Python, Javascript, Node, SQL**, and creating insightful visualizations with tools like **Tableau** and **Domo**.  
-   - 📝 Developed solutions for tasks like **managing data pipelines**, **recovering unpaid funds**, **email campaigns**, etc.
+Welcome to my corner of GitHub! Here’s a little about me:
 
----
+* **Experience**
 
-### 🎉 Fun Zone  
-When I’m not coding, you can find me: 
-- 🛹 Skateboarding
-- 📚 Reading
-- 🎲 Playing DnD 
-- 🍳 Cooking
+  * Working with **TypeScript & Node** to build backends and serverless applications on **AWS & AWS Serverless**
+  * Strong with **SQL** for wrangling and analyzing data
+  * Also experienced in **Python** for automation and other data tasks
 
 ---
 
+### 🎉 Fun Zone
+
+When I’m not coding, you can find me:
+
+* 🛹 Skateboarding
+* 📚 Reading
+* 🎲 Playing DnD
+* 🍳 Cooking
+
+---
